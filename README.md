@@ -64,5 +64,5 @@ Dashboard-Analise-De-Churn/
 
 **Bruna Frinhani**
 
-🔗 LinkedIn: *[(https://www.linkedin.com/in/brunafrinhani/)]*
+🔗 LinkedIn: *(https://www.linkedin.com/in/brunafrinhani/)*
 
