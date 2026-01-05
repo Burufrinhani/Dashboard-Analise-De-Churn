@@ -37,8 +37,8 @@ Este projeto tem como objetivo analisar o **churn de clientes** (cancelamentos),
 ```text
 Dashboard-Analise-De-Churn/
 │
-├── images/            # Imagens do dashboard
-├── AnalysingChurn.pbix
+├── DashFinal-ChurnAnalysis.pbix - Arquivo pbix
+├── WA_Fn-UseC_-Telco-Customer-Churn.csv - CSV com os dados utilizados
 ├── README.md
 ```
 
@@ -57,13 +57,12 @@ Dashboard-Analise-De-Churn/
 
 * Buscar dados regionais
 * Incluir análise temporal mais detalhada
-* Publicar versão online do dashboard (Power BI Service)
-
+  
 ---
 
 ## 👩‍💻 Desenvolvido por
 
 **Bruna Frinhani**
 
-🔗 LinkedIn: *[(https://www.linkedin.com/in/brunafrinhani/)*
+🔗 LinkedIn: *[(https://www.linkedin.com/in/brunafrinhani/)]*
 
