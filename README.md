@@ -35,8 +35,6 @@ Este projeto tem como objetivo analisar o **churn de clientes** (cancelamentos),
 ## 📂 Estrutura do Repositório
 
 ```text
-Dashboard-Analise-De-Churn/
-│
 ├── DashFinal-ChurnAnalysis.pbix - Arquivo pbix
 ├── WA_Fn-UseC_-Telco-Customer-Churn.csv - CSV com os dados utilizados
 ├── README.md
@@ -64,5 +62,5 @@ Dashboard-Analise-De-Churn/
 
 **Bruna Frinhani**
 
-🔗 LinkedIn: *(https://www.linkedin.com/in/brunafrinhani/)*
+🔗 LinkedIn: [in/brunafrinhani/](https://www.linkedin.com/in/brunafrinhani/)
 
